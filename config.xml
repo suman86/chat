@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>QuickBlox XMPP chat with Phonegap</name>
-    <name>QuickBlox XMPP Chat with Phonegap</name>
+<widget id="com.phonegap.chat" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>chat</name>
+    <name>Chat</name>
     <description>
         Simple XMPP chat with QuickBlox Web SDK, Strophe.js and modified for Phonegap. XMPP chat written by Suman Chakraborty. (suman.wrc@gmail.com)
     </description>
